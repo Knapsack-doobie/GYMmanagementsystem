@@ -1,0 +1,2 @@
+# GYMmanagementsystem
+ Introduction:  Problem Statement: In today's fast-paced  world, maintaining a healthy lifestyle has  become increasingly challenging. Managing  fitness goals, tracking progress, and staying  motivated can be difficult without proper tools.  Solution: Our Online Fitness Tracking  Application aims to provide a comprehensive  platform for users to monitor their fitness  activities, set goals, and receive personalized  guidance.
